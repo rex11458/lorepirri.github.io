@@ -27,6 +27,7 @@ github_username:  lorepirri
 # Custom add ons
 disqus:
   shortname: lorepirri
+google_analytics: UA-55150232-2
 
 # Build settings
 markdown: kramdown
