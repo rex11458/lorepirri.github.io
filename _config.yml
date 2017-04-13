@@ -24,6 +24,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lorepirri
 github_username:  lorepirri
 
+# fix bug "Error: No repo name found."
+# https://github.com/jekyll/jekyll/issues/4705
+repository: lorepirri/lorepirri.github.io
+
 # Custom add ons
 disqus:
   shortname: lorepirri
