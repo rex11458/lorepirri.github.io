@@ -28,14 +28,15 @@ github_username:  lorepirri
 # https://github.com/jekyll/jekyll/issues/4705
 repository: lorepirri/lorepirri.github.io
 
+permalink: :slug.html
+
 # Custom add ons
-disqus:
-  shortname: lorepirri
+
 google_analytics: UA-55150232-2
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman-blog
 gems:
   - jekyll-feed
 exclude:
