@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: page
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
 
-You can find the source code for the Jekyll new theme at:
-[minima](https://github.com/jekyll/minima)
+You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+
+[back](./)
